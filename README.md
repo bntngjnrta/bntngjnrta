@@ -544,22 +544,22 @@ innovation, and problem-solving.
 
 ---
 
+---
+
 <h2>📜 Certifications</h2>
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/Google%20for%20Education-Gemini%20University%20Student%20Certification-4285F4?style=flat&logo=google&logoColor=white"
+       alt="Gemini University Student Certification">
 
-<img src="https://img.shields.io/badge/Google%20for%20Education-Gemini%20University%20Student%20Certification-4285F4?style=for-the-badge&logo=google&logoColor=white"
-alt="Gemini University Student Certification">
+  <img src="https://img.shields.io/badge/Dicoding-Basic%20Artificial%20Intelligence-1E88E5?style=flat"
+       alt="Basic Artificial Intelligence">
 
-<img src="https://img.shields.io/badge/Dicoding-Basic%20Artificial%20Intelligence-1E88E5?style=for-the-badge"
-alt="Basic Artificial Intelligence">
+  <img src="https://img.shields.io/badge/MikroTik-Certified%20Network%20Associate-293239?style=flat&logo=mikrotik&logoColor=white"
+       alt="MikroTik Certified Network Associate">
 
-<img src="https://img.shields.io/badge/MikroTik-Certified%20Network%20Associate-293239?style=for-the-badge&logo=mikrotik&logoColor=white"
-alt="MikroTik Certified Network Associate">
-
-<img src="https://img.shields.io/badge/IDNetworkers-Basic%20Cyber%20Security-111111?style=for-the-badge"
-alt="Basic Cyber Security">
-
+  <img src="https://img.shields.io/badge/IDNetworkers-Basic%20Cyber%20Security-111111?style=flat"
+       alt="Basic Cyber Security">
 </p>
 
 ---
