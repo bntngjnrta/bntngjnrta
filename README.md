@@ -585,26 +585,17 @@ technology research, software development, or innovation initiatives.
 </p>
 
 <p>
+  <a href="mailto:kadekbintangjanuarta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kadekbintangjanuarta%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-<a href="mailto:kadekbintangjanuarta@gmail.com">
-<img src="https://img.shields.io/badge/Email-kadekbintangjanuarta%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"
-alt="Email">
-</a>
+  <a href="https://www.linkedin.com/in/kadek-bintang-januarta">
+    <img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
- 
-
-<a href="https://www.linkedin.com/in/kadek-bintang-januarta">
-<img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white"
-alt="LinkedIn">
-</a>
-
- 
-
-<a href="https://bintang-portofolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white"
-alt="Portfolio">
-</a>
-
+  <a href="https://bintang-portofolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 <p align="center">
