@@ -1,6 +1,6 @@
 <img src="./banner.jpg" alt="Kadek Bintang Januarta Banner" width="100%">
 
-<h2>👋 <Hello World!/></h2>
+<h2>👋 Hello World!</h2>
 
 <p>
 I'm <strong>Kadek Bintang Januarta</strong>, an Informatics Management student at
