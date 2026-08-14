@@ -388,82 +388,82 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
 
 ---
 
+---
+
 <h2>🏆 Awards & Achievements</h2>
 
 <table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="6%" align="center">🥇</td>
+    <td>
+      <strong>Digital Innovation and Technology Competition</strong><br>
+      PT Astra International Tbk — 1st Place, Future of Mobility Category
+    </td>
+  </tr>
 
-<tr>
-<td width="7%" align="center">🥇</td>
-<td width="93%">
-<strong>Digital Innovation and Technology Competition</strong><br>
-PT Astra International Tbk — 1st Place, Future of Mobility Category
-</td>
-</tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td>
+      <strong>Astra Honda Motor Best Student</strong><br>
+      PT Astra Honda Motor — Silver Medal, Invention Category
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🥈</td>
-<td>
-<strong>Astra Honda Motor Best Student</strong><br>
-PT Astra Honda Motor — Silver Medal, Invention Category
-</td>
-</tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td>
+      <strong>Festival of Innovation and Student Entrepreneurship in Indonesia</strong><br>
+      Kemendikbudristek & Puspresnas — Silver Medal
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🥈</td>
-<td>
-<strong>Festival of Innovation and Student Entrepreneurship in Indonesia</strong><br>
-Kemendikbudristek & Puspresnas — Silver Medal
-</td>
-</tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td>
+      <strong>1st International Conference on Data Science and Geoinformatics</strong><br>
+      Best Paper Awardee
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🏆</td>
-<td>
-<strong>1st International Conference on Data Science and Geoinformatics</strong><br>
-Best Paper Awardee
-</td>
-</tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td>
+      <strong>AHM GEAR Business Case Competition</strong><br>
+      PT Astra Honda Motor — National Finalist
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🏅</td>
-<td>
-<strong>AHM GEAR Business Case Competition</strong><br>
-PT Astra Honda Motor — National Finalist
-</td>
-</tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td>
+      <strong>West Java Renewable Energy Exploration</strong><br>
+      Institute for Essential Services Reform — Delegated from Bali Province
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🌱</td>
-<td>
-<strong>West Java Renewable Energy Exploration</strong><br>
-Institute for Essential Services Reform — Delegated from Bali Province
-</td>
-</tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td>
+      <strong>INCUBITS WASH Innovation Hub Start-Up Incubator</strong><br>
+      UNICEF & Kementerian PUPR — National Grand Finalist
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🚀</td>
-<td>
-<strong>INCUBITS WASH Innovation Hub Start-Up Incubator</strong><br>
-UNICEF & Kementerian PUPR — National Grand Finalist
-</td>
-</tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td>
+      <strong>The 10th Ambassador Business Edupreneur</strong><br>
+      Universitas Pendidikan Indonesia — 2nd Place
+    </td>
+  </tr>
 
-<tr>
-<td align="center">🥈</td>
-<td>
-<strong>The 10th Ambassador Business Edupreneur</strong><br>
-Universitas Pendidikan Indonesia — 2nd Place
-</td>
-</tr>
-
-<tr>
-<td align="center">🌐</td>
-<td>
-<strong>Google Student Ambassador</strong><br>
-Google Indonesia — 2026
-</td>
-</tr>
-
+  <tr>
+    <td align="center">🌐</td>
+    <td>
+      <strong>Google Student Ambassador</strong><br>
+      Google Indonesia — 2026
+    </td>
+  </tr>
 </table>
 
 ---
