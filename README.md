@@ -566,26 +566,13 @@ alt="Basic Cyber Security">
 
 <h2>🧠 Soft Skills</h2>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Leadership-4B4B4B?style=flat-square"
-alt="Leadership">
-
-<img src="https://img.shields.io/badge/Public%20Speaking-4B4B4B?style=flat-square"
-alt="Public Speaking">
-
-<img src="https://img.shields.io/badge/Critical%20Thinking-4B4B4B?style=flat-square"
-alt="Critical Thinking">
-
-<img src="https://img.shields.io/badge/Problem%20Solving-4B4B4B?style=flat-square"
-alt="Problem Solving">
-
-<img src="https://img.shields.io/badge/Team%20Collaboration-4B4B4B?style=flat-square"
-alt="Team Collaboration">
-
-<img src="https://img.shields.io/badge/Time%20Management-4B4B4B?style=flat-square"
-alt="Time Management">
-
+<p>
+  <img src="https://img.shields.io/badge/Leadership-4B4B4B?style=flat-square" alt="Leadership">
+  <img src="https://img.shields.io/badge/Public%20Speaking-4B4B4B?style=flat-square" alt="Public Speaking">
+  <img src="https://img.shields.io/badge/Critical%20Thinking-4B4B4B?style=flat-square" alt="Critical Thinking">
+  <img src="https://img.shields.io/badge/Problem%20Solving-4B4B4B?style=flat-square" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Team%20Collaboration-4B4B4B?style=flat-square" alt="Team Collaboration">
+  <img src="https://img.shields.io/badge/Time%20Management-4B4B4B?style=flat-square" alt="Time Management">
 </p>
 
 ---
