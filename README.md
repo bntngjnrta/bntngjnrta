@@ -393,7 +393,6 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
 
 <table width="100%">
   <tr>
-
     <td width="50%" valign="top">
 
       <h3>🥇 Digital Innovation and Technology Competition</h3>
@@ -415,11 +414,9 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
       </p>
 
     </td>
-
   </tr>
 
   <tr>
-
     <td width="50%" valign="top">
 
       <h3>🥈 Festival of Innovation and Student Entrepreneurship in Indonesia</h3>
@@ -441,11 +438,9 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
       </p>
 
     </td>
-
   </tr>
 
   <tr>
-
     <td width="50%" valign="top">
 
       <h3>🏅 AHM GEAR Business Case Competition</h3>
@@ -467,11 +462,9 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
       </p>
 
     </td>
-
   </tr>
 
   <tr>
-
     <td width="50%" valign="top">
 
       <h3>🚀 INCUBITS WASH Innovation Hub Start-Up Incubator</h3>
@@ -493,11 +486,9 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
       </p>
 
     </td>
-
   </tr>
 
   <tr>
-
     <td width="50%" valign="top">
 
       <h3>🌐 Google Student Ambassador</h3>
@@ -511,10 +502,8 @@ Arduino and Solar-Powered Water Purification System for Treating Contaminated Wa
 
     <td width="50%" valign="top">
     </td>
-
   </tr>
 </table>
-
 ---
 
 <h2>🤝 Organizational Experience</h2>
