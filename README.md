@@ -19,7 +19,7 @@ Beyond software development, I actively participate in technology competitions,
 research projects, organizational activities, and community initiatives.
 </p>
 
-<pre>
+```javascript
 const bintang = {
   role      : "Informatics Management Student",
   education : "ASTRA Polytechnic",
@@ -40,7 +40,7 @@ const bintang = {
     "Digital Innovation"
   ]
 };
-</pre>
+```
 
 ---
 
@@ -447,7 +447,7 @@ technology research, software development, or innovation initiatives.
     <img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://bintangportofolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-bintangportofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
