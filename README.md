@@ -2,11 +2,7 @@
 
 <h2>👋 About Me</h2>
 
-Informatics Management student at <strong>ASTRA Polytechnic</strong> with a strong passion for <strong>software engineering, full-stack development, and system analysis</strong>.
-
-I build web, mobile, and desktop applications with a focus on scalable architecture, efficient systems, and user-centered solutions. I also have experience in project management, research, digital innovation, and community development.
-
-Currently, I am developing my expertise across <strong>frontend, backend, database systems, and software architecture</strong> while actively participating in technology competitions, research, and organizational initiatives.
+Informatics Management student at <strong>ASTRA Polytechnic</strong> with a strong passion for <strong>software engineering, full-stack development, and system analysis</strong>. I build web, mobile, and desktop applications with a focus on scalable architecture, efficient systems, and user-centered solutions. I also have experience in project management, research, digital innovation, and community development. Currently, I am developing my expertise across <strong>frontend, backend, database systems, and software architecture</strong> while actively participating in technology competitions, research, and organizational initiatives.
 
 <pre>
 const bintang = {
