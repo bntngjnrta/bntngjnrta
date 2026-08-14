@@ -299,13 +299,13 @@ services to databases, APIs, system analysis, and network infrastructure.
 <td width="50%" valign="top">
 
 <h3>🥇 Digital Innovation and Technology Competition</h3>
-<p><strong>PT Astra International Tbk</strong><br>1st Place — Future of Mobility Category</p>
+<p><strong>PT Astra International Tbk</strong><br>1st Place on the Future of Mobility Category</p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🥈 Astra Honda Motor Best Student</h3>
-<p><strong>PT Astra Honda Motor</strong><br>Silver Medal — Invention Category</p>
+<p><strong>PT Astra Honda Motor</strong><br>Silver Medal on the Invention Category</p>
 
 </td>
 </tr>
@@ -350,7 +350,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 <td width="50%" valign="top">
 
 <h3>🥈 The 10th Ambassador Business Edupreneur</h3>
-<p><strong>Universitas Pendidikan Indonesia</strong><br>2nd Place</p>
+<p><strong>Universitas Pendidikan Indonesia</strong><br>2nd Place on the Bussines Planning Category</p>
 
 </td>
 </tr>
@@ -371,7 +371,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 <h2>🤝 Organizational Experience</h2>
 
 <details open>
-<summary><b>ASEEC Education — Digital Marketing Team</b></summary>
+<summary><b>ASEEC Education | Digital Marketing Team</b></summary>
 <br>
 
 <p>📅 <strong>June 2025 – Present</strong></p>
@@ -380,7 +380,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 </details>
 
 <details>
-<summary><b>Student Executive Board — Secretary</b></summary>
+<summary><b>Student Executive Board | Secretary</b></summary>
 <br>
 
 <p>📅 <strong>March 2025 – March 2026</strong></p>
@@ -389,7 +389,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 </details>
 
 <details>
-<summary><b>Clean Energy Technology Startup Community</b></summary>
+<summary><b>Clean Energy Technology Startup Community | Program & Social Media Officer</b></summary>
 <br>
 
 <p>📅 <strong>August 2024 – August 2026</strong></p>
@@ -398,7 +398,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 </details>
 
 <details>
-<summary><b>Indonesian Young Researchers Association</b></summary>
+<summary><b>Indonesian Young Researchers Association | Entrepreneurship Division</b></summary>
 <br>
 
 <p>📅 <strong>January 2024 – January 2026</strong></p>
@@ -446,7 +446,7 @@ technology research, software development, or innovation initiatives.
   <a href="https://www.linkedin.com/in/kadek-bintang-januarta">
     <img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://bintang-portofolio.vercel.app">
+  <a href="https://bintangportofolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
