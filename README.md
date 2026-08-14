@@ -2,25 +2,43 @@
 
 <h2>👋 About Me</h2>
 
-Informatics Management student at <strong>ASTRA Polytechnic</strong> with a strong passion for <strong>software engineering, full-stack development, and system analysis</strong>. I build web, mobile, and desktop applications with a focus on scalable architecture, efficient systems, and user-centered solutions. I also have experience in project management, research, digital innovation, and community development. Currently, I am developing my expertise across <strong>frontend, backend, database systems, and software architecture</strong> while actively participating in technology competitions, research, and organizational initiatives.
+<p>
+I'm <strong>Kadek Bintang Januarta</strong>, an Informatics Management student at
+<strong>ASTRA Polytechnic</strong> with a strong passion for
+<strong>software engineering, full-stack development, and system analysis</strong>.
+</p>
+
+<p>
+I build web, mobile, and desktop applications with a focus on scalable architecture,
+efficient systems, and user-centered solutions. I'm also interested in
+<strong>Artificial Intelligence, Machine Learning, system architecture, and digital innovation</strong>.
+</p>
+
+<p>
+Beyond software development, I actively participate in technology competitions,
+research projects, organizational activities, and community initiatives.
+</p>
 
 <pre>
 const bintang = {
-  role       : "Informatics Management Student",
-  education  : "ASTRA Polytechnic",
-  gpa        : "3.96 / 4.00",
-  interests  : [
-    "Full-Stack Development",
+  role      : "Informatics Management Student",
+  education : "ASTRA Polytechnic",
+  gpa       : "3.96 / 4.00",
+
+  interests : [
     "Software Engineering",
+    "Full-Stack Development",
     "System Analysis",
-    "AI & Machine Learning"
+    "Artificial Intelligence",
+    "Machine Learning"
   ],
-  focus      : [
+
+  focus : [
     "Web Systems",
-    "Mobile Applications",
-    "Enterprise Systems",
+    "Enterprise Applications",
+    "AI Integration",
     "Digital Innovation"
-  ],
+  ]
 };
 </pre>
 
@@ -28,14 +46,17 @@ const bintang = {
 
 <h2>💻 Languages & Tools</h2>
 
-<p>I work across the application stack — from responsive user interfaces and backend services to databases, APIs, system analysis, and network infrastructure.</p>
+<p>
+I work across the application stack — from responsive user interfaces and backend
+services to databases, APIs, system analysis, and network infrastructure.
+</p>
 
 <details open>
 <summary><b>Frontend Development</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend Skills">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" alt="Frontend Technologies">
 </p>
 
 <p align="center">
@@ -50,6 +71,7 @@ const bintang = {
   <code>AJAX</code>
   <code>Responsive Web Design</code>
 </p>
+
 </details>
 
 <details>
@@ -57,7 +79,7 @@ const bintang = {
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,spring" alt="Backend Skills">
+  <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,spring" alt="Backend Technologies">
 </p>
 
 <p align="center">
@@ -72,6 +94,7 @@ const bintang = {
   <code>Entity Framework</code>
   <code>JWT</code>
 </p>
+
 </details>
 
 <details>
@@ -79,7 +102,20 @@ const bintang = {
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" alt="Database Skills">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    width="50"
+    height="50"
+    alt="Microsoft SQL Server">
+
+<img src="https://skillicons.dev/icons?i=mysql"
+    alt="MySQL">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+    width="50"
+    height="50"
+    alt="Oracle Database">
+
 </p>
 
 <p align="center">
@@ -87,6 +123,7 @@ const bintang = {
   <code>MySQL</code>
   <code>Oracle Database</code>
 </p>
+
 </details>
 
 <details>
@@ -94,7 +131,24 @@ const bintang = {
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma" alt="Development Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,figma"
+       alt="Development Tools">
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"
+    alt="Swagger">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI">
+
+<img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white"
+    alt="Microsoft Visio">
+
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"
+    alt="Microsoft Office">
+
 </p>
 
 <p align="center">
@@ -102,11 +156,13 @@ const bintang = {
   <code>GitHub</code>
   <code>Postman</code>
   <code>Swagger</code>
+  <code>Docker</code>
   <code>Power BI</code>
   <code>Figma</code>
   <code>Microsoft Visio</code>
   <code>Microsoft Office</code>
 </p>
+
 </details>
 
 <details>
@@ -114,43 +170,29 @@ const bintang = {
 <br>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"
+    alt="MikroTik">
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"
+    alt="Cisco">
+
+<img src="https://img.shields.io/badge/Ruijie-CC0000?style=for-the-badge&logoColor=white"
+    alt="Ruijie">
+
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"
+    alt="Windows Server">
+
+</p>
+
+<p align="center">
   <code>MikroTik</code>
   <code>Cisco</code>
   <code>Ruijie</code>
   <code>DNS Management</code>
-  <code>Windows Server</code>
+  <code>Windows Server Administration</code>
   <code>VLAN</code>
 </p>
-</details>
-
----
-
-<h2>🎓 Education</h2>
-
-<details open>
-<summary><b>ASTRA Polytechnic</b></summary>
-
-<br>
-
-<strong>Informatics Management</strong>
-
-📍 Cikarang, Jawa Barat
-📅 August 2024 – Present
-🎯 GPA: <strong>3.96 / 4.00</strong>
-🏆 ASTRA Scholarship Awardee
-
-</details>
-
-<details>
-<summary><b>SMA Negeri Bali Mandara</b></summary>
-
-<br>
-
-<strong>Mathematics and Natural Sciences</strong>
-
-📍 Buleleng, Bali
-📅 July 2021 – April 2024
-🏆 Graduate with Best Research Award
 
 </details>
 
@@ -158,71 +200,116 @@ const bintang = {
 
 <h2>🚀 Featured Projects</h2>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>🎓 Academic Information System</h3>
 
+<p>
 Academic information system for <strong>ASTRA Polytechnic</strong>.
+</p>
 
-<code>Next.js</code> <code>ASP.NET Core</code> <code>SQL Server</code>
+<p>
+<code>Next.js</code>
+<code>ASP.NET Core</code>
+<code>SQL Server</code>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>📦 Asset Management System</h3>
 
+<p>
 Asset management information system for <strong>UPT Informatics ASTRA Polytechnic</strong>.
+</p>
 
-<code>PHP</code> <code>CodeIgniter 3</code> <code>MySQL</code>
+<p>
+<code>PHP</code>
+<code>CodeIgniter 3</code>
+<code>MySQL</code>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>👥 Employee Recruitment System</h3>
 
+<p>
 Employee recruitment system developed for <strong>PT GS Battery</strong>.
+</p>
 
-<code>C#</code> <code>DevExpress</code> <code>SQL Server</code>
+<p>
+<code>C#</code>
+<code>DevExpress</code>
+<code>SQL Server</code>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🌐 Cening Community</h3>
 
+<p>
 Company profile website for <strong>Cening Community</strong>.
+</p>
 
-<code>React.js</code> <code>Tailwind CSS</code>
+<p>
+<code>React.js</code>
+<code>Tailwind CSS</code>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>🤖 Mentora AI</h3>
 
-Mobile-based AI learning assistant implementing <strong>Retrieval-Augmented Generation (RAG)</strong> for Informatics Management students.
+<p>
+Mobile-based AI learning assistant implementing
+<strong>Retrieval-Augmented Generation (RAG)</strong>
+for Informatics Management students.
+</p>
 
-<code>React Native</code> <code>Expo</code> <code>RAG</code> <code>AI</code>
+<p>
+<code>React Native</code>
+<code>Expo</code>
+<code>RAG</code>
+<code>AI</code>
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>💧 Solar-Powered Water Purification</h3>
 
-Arduino and solar panel-based water purification system for treating contaminated water.
+<p>
+Arduino and solar panel-based water purification system
+for treating contaminated water.
+</p>
 
-<code>Arduino</code> <code>Solar Panel</code> <code>IoT</code>
+<p>
+<code>Arduino</code>
+<code>Solar Panel</code>
+<code>IoT</code>
+</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -231,186 +318,306 @@ Arduino and solar panel-based water purification system for treating contaminate
 <h2>🔬 Research</h2>
 
 <ul>
-  <li><strong>Sentiment Analysis and Clustering of Vocational Education Selection with Machine Learning</strong></li>
-  <li><strong>Development of an Efficient and Interpretable Dermoscopic Image-Based Melanoma Detection Model using Explainable Artificial Intelligence</strong></li>
-  <li><strong>Mentora AI: Implementation of Retrieval-Augmented Generation in a Mobile-Based AI Learning Assistant for Informatics Management Students</strong></li>
-  <li><strong>Utilization of Mackerel Tuna Bone Waste as Activated Carbon Electrode Material for Electric Double-Layer Capacitors</strong></li>
-  <li><strong>Arduino and Solar-Powered Water Purification System for Treating Contaminated Water</strong></li>
+
+<li>
+<strong>
+Sentiment Analysis and Clustering of Vocational Education Selection with Machine Learning
+</strong>
+</li>
+
+<li>
+<strong>
+Development of an Efficient and Interpretable Dermoscopic Image-Based Melanoma Detection Model Using Explainable Artificial Intelligence
+</strong>
+</li>
+
+<li>
+<strong>
+Mentora AI: Implementation of Retrieval-Augmented Generation in a Mobile-Based AI Learning Assistant for Informatics Management Students
+</strong>
+</li>
+
+<li>
+<strong>
+Utilization of Mackerel Tuna Bone Waste as Activated Carbon Electrode Material for Electric Double-Layer Capacitors
+</strong>
+</li>
+
+<li>
+<strong>
+Arduino and Solar-Powered Water Purification System for Treating Contaminated Water
+</strong>
+</li>
+
 </ul>
+
+---
+
+<h2>🎓 Education</h2>
+
+<details open>
+
+<summary><b>ASTRA Polytechnic</b></summary>
+
+<br>
+
+<ul>
+  <li><strong>Program:</strong> Informatics Management</li>
+  <li><strong>Location:</strong> Cikarang, Jawa Barat</li>
+  <li><strong>Period:</strong> August 2024 – Present</li>
+  <li><strong>GPA:</strong> 3.96 / 4.00</li>
+  <li><strong>Achievement:</strong> ASTRA Scholarship Awardee</li>
+</ul>
+
+</details>
+
+<details>
+
+<summary><b>SMA Negeri Bali Mandara</b></summary>
+
+<br>
+
+<ul>
+  <li><strong>Program:</strong> Mathematics and Natural Sciences</li>
+  <li><strong>Location:</strong> Buleleng, Bali</li>
+  <li><strong>Period:</strong> July 2021 – April 2024</li>
+  <li><strong>Achievement:</strong> Graduate with Best Research Award</li>
+</ul>
+
+</details>
 
 ---
 
 <h2>🏆 Awards & Achievements</h2>
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="10">
+
 <tr>
-<td>🥇</td>
-<td><strong>Digital Innovation and Technology Competition</strong><br>PT Astra International Tbk — 1st Place, Future of Mobility Category</td>
+<td width="7%" align="center">🥇</td>
+<td width="93%">
+<strong>Digital Innovation and Technology Competition</strong><br>
+PT Astra International Tbk — 1st Place, Future of Mobility Category
+</td>
 </tr>
 
 <tr>
-<td>🥈</td>
-<td><strong>Astra Honda Motor Best Student</strong><br>PT Astra Honda Motor — Silver Medal, Invention Category</td>
+<td align="center">🥈</td>
+<td>
+<strong>Astra Honda Motor Best Student</strong><br>
+PT Astra Honda Motor — Silver Medal, Invention Category
+</td>
 </tr>
 
 <tr>
-<td>🥈</td>
-<td><strong>Festival of Innovation and Student Entrepreneurship in Indonesia</strong><br>Kemendikbudristek & Puspresnas — Silver Medal</td>
+<td align="center">🥈</td>
+<td>
+<strong>Festival of Innovation and Student Entrepreneurship in Indonesia</strong><br>
+Kemendikbudristek & Puspresnas — Silver Medal
+</td>
 </tr>
 
 <tr>
-<td>🏆</td>
-<td><strong>1st International Conference on Data Science and Geoinformatics</strong><br>Best Paper Awardee</td>
+<td align="center">🏆</td>
+<td>
+<strong>1st International Conference on Data Science and Geoinformatics</strong><br>
+Best Paper Awardee
+</td>
 </tr>
 
 <tr>
-<td>🏅</td>
-<td><strong>AHM GEAR Business Case Competition</strong><br>PT Astra Honda Motor — National Finalist</td>
+<td align="center">🏅</td>
+<td>
+<strong>AHM GEAR Business Case Competition</strong><br>
+PT Astra Honda Motor — National Finalist
+</td>
 </tr>
 
 <tr>
-<td>🌱</td>
-<td><strong>West Java Renewable Energy Exploration</strong><br>Delegated from Bali Province</td>
+<td align="center">🌱</td>
+<td>
+<strong>West Java Renewable Energy Exploration</strong><br>
+Institute for Essential Services Reform — Delegated from Bali Province
+</td>
 </tr>
 
 <tr>
-<td>🚀</td>
-<td><strong>INCUBITS WASH Innovation Hub Start-Up Incubator</strong><br>UNICEF & Kementerian PUPR — National Grand Finalist</td>
+<td align="center">🚀</td>
+<td>
+<strong>INCUBITS WASH Innovation Hub Start-Up Incubator</strong><br>
+UNICEF & Kementerian PUPR — National Grand Finalist
+</td>
 </tr>
 
 <tr>
-<td>🥈</td>
-<td><strong>The 10th Ambassador Business Edupreneur</strong><br>Universitas Pendidikan Indonesia — 2nd Place</td>
+<td align="center">🥈</td>
+<td>
+<strong>The 10th Ambassador Business Edupreneur</strong><br>
+Universitas Pendidikan Indonesia — 2nd Place
+</td>
 </tr>
 
 <tr>
-<td>🌐</td>
-<td><strong>Google Student Ambassador</strong><br>Google Indonesia — 2026</td>
+<td align="center">🌐</td>
+<td>
+<strong>Google Student Ambassador</strong><br>
+Google Indonesia — 2026
+</td>
 </tr>
+
 </table>
-
----
-
-<h2>📜 Certifications</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20for%20Education-Gemini%20University%20Student%20Certification-4285F4?style=flat&logo=google" alt="Gemini Certification">
-  <img src="https://img.shields.io/badge/Dicoding-Basic%20Artificial%20Intelligence-1E88E5?style=flat" alt="AI Certification">
-  <img src="https://img.shields.io/badge/MikroTik-Certified%20Network%20Associate-293239?style=flat" alt="MikroTik Certification">
-  <img src="https://img.shields.io/badge/IDNetworkers-Basic%20Cyber%20Security-111111?style=flat" alt="Cyber Security Certification">
-</p>
 
 ---
 
 <h2>🤝 Organizational Experience</h2>
 
 <details open>
+
 <summary><b>ASEEC Education — Digital Marketing Team</b></summary>
 
 <br>
 
-📅 June 2025 – Present
+<p>
+📅 <strong>June 2025 – Present</strong>
+</p>
 
-Produced <strong>30+ digital content assets</strong> and collaborated with cross-functional teams to execute data-driven campaigns supporting community engagement and digital growth.
+<p>
+Produced <strong>30+ digital content assets</strong> and collaborated with
+cross-functional teams to execute data-driven campaigns supporting
+community engagement and digital growth.
+</p>
 
 </details>
 
 <details>
+
 <summary><b>Student Executive Board — Secretary</b></summary>
 
 <br>
 
-📅 March 2025 – March 2026
+<p>
+📅 <strong>March 2025 – March 2026</strong>
+</p>
 
-Managed <strong>100+ digital documents</strong>, meeting records, and organizational data while coordinating documentation and workflows across <strong>20+ programs</strong>.
+<p>
+Managed <strong>100+ digital documents</strong>, meeting records, and
+organizational data while coordinating documentation and workflows
+across <strong>20+ programs</strong>.
+</p>
 
 </details>
 
 <details>
+
 <summary><b>Clean Energy Technology Startup Community</b></summary>
 
 <br>
 
-📅 August 2024 – August 2026
+<p>
+📅 <strong>August 2024 – August 2026</strong>
+</p>
 
-Managed <strong>5+ community projects</strong> and coordinated with <strong>10+ external partners and industry stakeholders</strong> to support program execution.
+<p>
+Managed <strong>5+ community projects</strong> and coordinated with
+<strong>10+ external partners and industry stakeholders</strong>
+to support program execution.
+</p>
 
 </details>
 
 <details>
+
 <summary><b>Indonesian Young Researchers Association</b></summary>
 
 <br>
 
-📅 January 2024 – January 2026
+<p>
+📅 <strong>January 2024 – January 2026</strong>
+</p>
 
-Managed partnerships with <strong>15+ business and entrepreneurship organizations</strong> and mentored <strong>50+ students</strong> in business planning, innovation, and problem-solving.
+<p>
+Managed partnerships with <strong>15+ business and entrepreneurship organizations</strong>
+and mentored <strong>50+ students</strong> in business planning,
+innovation, and problem-solving.
+</p>
 
 </details>
 
 ---
 
-<h2>🧠 What I Do</h2>
+<h2>📜 Certifications</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-4B4B4B?style=for-the-badge" alt="Software Engineering">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-4B4B4B?style=for-the-badge" alt="Full Stack Development">
-  <img src="https://img.shields.io/badge/System%20Analysis-4B4B4B?style=for-the-badge" alt="System Analysis">
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-4B4B4B?style=for-the-badge" alt="AI">
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Application-4B4B4B?style=for-the-badge" alt="Web Application">
-  <img src="https://img.shields.io/badge/Enterprise%20Systems-4B4B4B?style=for-the-badge" alt="Enterprise Systems">
-  <img src="https://img.shields.io/badge/Project%20Management-4B4B4B?style=for-the-badge" alt="Project Management">
-  <img src="https://img.shields.io/badge/Digital%20Innovation-4B4B4B?style=for-the-badge" alt="Digital Innovation">
-</p>
+<img src="https://img.shields.io/badge/Google%20for%20Education-Gemini%20University%20Student%20Certification-4285F4?style=for-the-badge&logo=google&logoColor=white"
+alt="Gemini University Student Certification">
 
----
+<img src="https://img.shields.io/badge/Dicoding-Basic%20Artificial%20Intelligence-1E88E5?style=for-the-badge"
+alt="Basic Artificial Intelligence">
 
-<h2>📊 GitHub Stats</h2>
+<img src="https://img.shields.io/badge/MikroTik-Certified%20Network%20Associate-293239?style=for-the-badge&logo=mikrotik&logoColor=white"
+alt="MikroTik Certified Network Associate">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bntngjnrta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
+<img src="https://img.shields.io/badge/IDNetworkers-Basic%20Cyber%20Security-111111?style=for-the-badge"
+alt="Basic Cyber Security">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bntngjnrta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-<h2>📈 Currently</h2>
+<h2>🧠 Soft Skills</h2>
 
-<ul>
-  <li>🎓 Studying Informatics Management at <strong>ASTRA Polytechnic</strong></li>
-  <li>💻 Building full-stack web and enterprise information systems</li>
-  <li>🤖 Exploring AI, RAG, and machine learning applications</li>
-  <li>🔬 Working on research and technology innovation projects</li>
-  <li>🌱 Participating in social impact and community development initiatives</li>
-  <li>🏆 Actively participating in technology and innovation competitions</li>
-</ul>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Leadership-4B4B4B?style=flat-square"
+alt="Leadership">
+
+<img src="https://img.shields.io/badge/Public%20Speaking-4B4B4B?style=flat-square"
+alt="Public Speaking">
+
+<img src="https://img.shields.io/badge/Critical%20Thinking-4B4B4B?style=flat-square"
+alt="Critical Thinking">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-4B4B4B?style=flat-square"
+alt="Problem Solving">
+
+<img src="https://img.shields.io/badge/Team%20Collaboration-4B4B4B?style=flat-square"
+alt="Team Collaboration">
+
+<img src="https://img.shields.io/badge/Time%20Management-4B4B4B?style=flat-square"
+alt="Time Management">
+
+</p>
 
 ---
 
 <h2>📬 Let's Connect</h2>
 
 <p>
-  <a href="mailto:kadekbintangjanuarta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kadekbintangjanuarta%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kadek-bintang-januarta">
-    <img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://github.com/bntngjnrta">
-    <img src="https://img.shields.io/badge/GitHub-bntngjnrta-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://bintang-portofolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+Feel free to reach out if you'd like to collaborate on a project,
+technology research, software development, or innovation initiatives.
+</p>
+
+<p>
+
+<a href="mailto:kadekbintangjanuarta@gmail.com">
+<img src="https://img.shields.io/badge/Email-kadekbintangjanuarta%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"
+alt="Email">
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/kadek-bintang-januarta">
+<img src="https://img.shields.io/badge/LinkedIn-Kadek%20Bintang%20Januarta-0A66C2?style=flat&logo=linkedin&logoColor=white"
+alt="LinkedIn">
+</a>
+
+ 
+
+<a href="https://bintang-portofolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-bintang--portofolio.vercel.app-111111?style=flat&logo=vercel&logoColor=white"
+alt="Portfolio">
+</a>
+
 </p>
 
 <p align="center">
