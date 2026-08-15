@@ -3,21 +3,7 @@
 <h2>👋 Hello World!</h2>
 
 <p>
-I'm <strong>Kadek Bintang Januarta</strong>, an Informatics Management student at
-<strong>ASTRA Polytechnic</strong> with a strong passion for
-<strong>software engineering, full-stack development, and system analysis</strong>.
-</p>
-
-<p>
-I build web, mobile, and desktop applications with a focus on scalable architecture,
-efficient systems, and user-centered solutions. I'm also interested in
-<strong>Artificial Intelligence, Machine Learning, system architecture, and digital innovation</strong>.
-</p>
-
-<p>
-Beyond software development, I actively participate in technology competitions,
-research projects, organizational activities, and community initiatives.
-</p>
+I'm <strong>Kadek Bintang Januarta</strong>, an Informatics Management student at <strong>ASTRA Polytechnic</strong> with a strong passion for <strong>software engineering, full-stack development, and system analysis</strong>. I build web, mobile, and desktop applications with a focus on scalable architecture, efficient systems, and user-centered solutions. I'm also interested in <strong>Artificial Intelligence, Machine Learning, system architecture, and digital innovation</strong>. Beyond software development, I actively participate in technology competitions, research projects, organizational activities, and community initiatives.</p>
 
 ```javascript
 const bintang = {
