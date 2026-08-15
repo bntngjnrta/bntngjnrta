@@ -7,9 +7,10 @@ I'm <strong>Kadek Bintang Januarta</strong>, an Informatics Management student a
 
 ```javascript
 const bintang = {
-  role      : "Informatics Management Student",
-  education : "ASTRA Polytechnic",
-  gpa       : "3.96 / 4.00",
+  role              : "Informatics Management Student",
+  education         : "ASTRA Polytechnic",
+  currentGPA        : "3.96 / 4.00",
+  estimatedGraduate : "2027",
 
   interests : [
     "Software Engineering",
@@ -33,7 +34,7 @@ const bintang = {
 <h2>💻 Languages & Tools</h2>
 
 <p>
-I work across the application stack — from responsive user interfaces and backend
+I work across the application stack, from responsive user interfaces and backend
 services to databases, APIs, system analysis, and network infrastructure.
 </p>
 
@@ -257,7 +258,8 @@ services to databases, APIs, system analysis, and network infrastructure.
   <li><strong>Program:</strong> Informatics Management</li>
   <li><strong>Location:</strong> Cikarang, Jawa Barat</li>
   <li><strong>Period:</strong> August 2024 – Present</li>
-  <li><strong>GPA:</strong> 3.96 / 4.00</li>
+  <li><strong>Current GPA:</strong> 3.96 / 4.00</li>
+  <li><strong>Estimated Graduation:</strong> 2027</li>
   <li><strong>Achievement:</strong> ASTRA Scholarship Awardee</li>
 </ul>
 
@@ -394,13 +396,18 @@ services to databases, APIs, system analysis, and network infrastructure.
 
 ---
 
-<h2>📜 Certifications</h2>
+<h2>📜 Licenses & Certifications</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Dicoding-AI%20Fundamentals-1E88E5?style=flat" alt="Dicoding AI">
-  <img src="https://img.shields.io/badge/MikroTik-Certified-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik">
-  <img src="https://img.shields.io/badge/IDN-Basic%20Cyber%20Security-111111?style=flat" alt="Cyber Security">
+  <img src="https://img.shields.io/badge/Dicoding%20Indonesia-Belajar%20Dasar%20AI-4285F4?style=flat&labelColor=555555" alt="Belajar Dasar AI">
+  <img src="https://img.shields.io/badge/Dicoding%20Indonesia-Belajar%20Dasar%20Data%20Science-1E88E5?style=flat&labelColor=555555" alt="Belajar Dasar Data Science">
+  <img src="https://img.shields.io/badge/Google-Gemini%20University%20Student%20Certification-4285F4?style=flat&labelColor=555555&logo=google&logoColor=white" alt="Gemini University Student Certification">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-Certified%20Network%20Associate-293239?style=flat&labelColor=555555&logo=mikrotik&logoColor=white" alt="MikroTik Certified Network Associate">
+  <img src="https://img.shields.io/badge/ID--Networkers-Basic%20Cyber%20Security-000000?style=flat&labelColor=555555" alt="Basic Cyber Security">
+  <img src="https://img.shields.io/badge/Aguna%20Course-Linux%20Fundamental-2E2E2E?style=flat&labelColor=555555" alt="Linux Fundamental">
 </p>
 
 ---
@@ -418,7 +425,7 @@ services to databases, APIs, system analysis, and network infrastructure.
 
 ---
 
-<h2>📬 Let's Connect</h2>
+<h2>Let's Connect</h2>
 
 <p>
 Feel free to reach out if you'd like to collaborate on a project,
