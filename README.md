@@ -286,14 +286,44 @@ services to databases, APIs, system analysis, and network infrastructure.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🥇 Digital Innovation and Technology Competition</h3>
-<p><strong>PT Astra International Tbk</strong><br>1st Place on the Future of Mobility Category</p>
+<h3>🌐 Google Student Ambassador</h3>
+<p><strong>Google Indonesia</strong> · Apr 2026<br>Selected to be one of two thousand GSAs throughout Indonesia</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌟 KPP Youth In Action 2</h3>
+<p><strong>PT Kalimantan Prima Persada</strong> · Aug 2026<br>Recipients of social project grant funds</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏆 1st International Conference on Data Science and Geoinformatics (ICDSG)</h3>
+<p><strong>INABIMS Center</strong> · Nov 2025<br>Best paper awardee</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏅 AHM GEAR Business Case Competition</h3>
+<p><strong>PT Astra Honda Motor</strong> · Nov 2025<br>National finalist</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌱 West Java Renewable Energy Exploration</h3>
+<p><strong>Institute for Essential Services Reform (IESR)</strong> · Jan 2024<br>Delegated from Bali Province for the renewable energy exploration event</p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🥈 Astra Honda Motor Best Student</h3>
-<p><strong>PT Astra Honda Motor</strong><br>Silver Medal on the Invention Category</p>
+<p><strong>PT Astra Honda Motor</strong> · Nov 2023<br>Silver medal in the invention category</p>
 
 </td>
 </tr>
@@ -302,55 +332,30 @@ services to databases, APIs, system analysis, and network infrastructure.
 <td width="50%" valign="top">
 
 <h3>🥈 Festival of Innovation and Student Entrepreneurship in Indonesia</h3>
-<p><strong>Kemendikbudristek & Puspresnas</strong><br>Silver Medal</p>
+<p><strong>Kemendikbudristek, Puspresnas</strong> · Sept 2023<br>Silver medal in advanced business cultivation and cross-sector collaboration</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏆 1st International Conference on Data Science and Geoinformatics</h3>
-<p><strong>International Conference</strong><br>Best Paper Awardee</p>
+<h3>🚀 INCUBITS (WASH Innovation Hub Start-Up Incubator)</h3>
+<p><strong>UNICEF, Kementerian PUPR</strong> · Feb 2023<br>National grand finalist</p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-<h3>🏅 AHM GEAR Business Case Competition</h3>
-<p><strong>PT Astra Honda Motor</strong><br>National Finalist</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌱 West Java Renewable Energy Exploration</h3>
-<p><strong>Institute for Essential Services Reform</strong><br>Delegated from Bali Province</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🚀 INCUBITS WASH Innovation Hub Start-Up Incubator</h3>
-<p><strong>UNICEF & Kementerian PUPR</strong><br>National Grand Finalist</p>
-
-</td>
 <td width="50%" valign="top">
 
 <h3>🥈 The 10th Ambassador Business Edupreneur</h3>
-<p><strong>Universitas Pendidikan Indonesia</strong><br>2nd Place on the Bussines Planning Category</p>
+<p><strong>Universitas Pendidikan Indonesia</strong> · Nov 2022<br>2nd place in the start-up business category</p>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-<h3>🌐 Google Student Ambassador</h3>
-<p><strong>Google Indonesia</strong><br>2026</p>
+<h3>🥇 Digital Innovation and Technology Competition</h3>
+<p><strong>PT Astra International Tbk</strong> · Jan 2022<br>1st place in the future of mobility category</p>
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -359,38 +364,74 @@ services to databases, APIs, system analysis, and network infrastructure.
 <h2>🤝 Organizational Experience</h2>
 
 <details open>
-<summary><b>ASEEC Education | Digital Marketing Team</b></summary>
+<summary><b>Google | Google Student Ambassador</b></summary>
 <br>
 
-<p>📅 <strong>June 2025 – Present</strong></p>
-<p>Produced <strong>30+ digital content assets</strong> and collaborated with cross-functional teams to execute data-driven campaigns supporting community engagement and digital growth.</p>
+<p>📅 <strong>Apr 2026 – Present</strong></p>
+<p>Represented Google on campus by promoting its technologies, programs, and initiatives to fellow students, organizing events and workshops to increase engagement with Google products while building leadership, communication, and digital marketing skills.</p>
 
 </details>
 
 <details>
-<summary><b>Student Executive Board | Secretary</b></summary>
+<summary><b>ASEEC Education | Marketing Team</b></summary>
 <br>
 
-<p>📅 <strong>March 2025 – March 2026</strong></p>
-<p>Managed <strong>100+ digital documents</strong>, meeting records, and organizational data while coordinating documentation and workflows across <strong>20+ programs</strong>.</p>
+<p>📅 <strong>Jun 2025 – Present</strong></p>
+<p>Served as Creative Content Specialist, crafting content strategies to boost audience reach and engagement across social media platforms, contributing to ASEEC's educational video productions, and managing the organization's official LinkedIn presence.</p>
 
 </details>
 
 <details>
-<summary><b>Clean Energy Technology Startup Community | Program & Social Media Officer</b></summary>
+<summary><b>BEM Politeknik Astra | Secretary</b></summary>
 <br>
 
-<p>📅 <strong>August 2024 – August 2026</strong></p>
-<p>Managed <strong>5+ community projects</strong> and coordinated with <strong>10+ external partners and industry stakeholders</strong> to support program execution.</p>
+<p>📅 <strong>Mar 2025 – Jun 2026</strong></p>
+<p>Managed organizational administration, documentation, and internal-external communication, including meeting minutes, official archives, event scheduling, and accountability reports, while supporting student-centered program planning and execution.</p>
 
 </details>
 
 <details>
-<summary><b>Indonesian Young Researchers Association | Entrepreneurship Division</b></summary>
+<summary><b>Asosiasi Peneliti Muda Indonesia | Entrepreneurship Division</b></summary>
 <br>
 
-<p>📅 <strong>January 2024 – January 2026</strong></p>
-<p>Managed partnerships with <strong>15+ business and entrepreneurship organizations</strong> and mentored <strong>50+ students</strong> in business planning, innovation, and problem-solving.</p>
+<p>📅 <strong>Apr 2024 – Apr 2026</strong></p>
+<p>Delivered training on scientific writing, Mendeley reference management, and SPSS data analysis, and mentored multiple teams for FIKSI 2024 and the Astra Honda Motor Best Student competition while co-developing entrepreneurship training programs for internal and external partners.</p>
+
+</details>
+
+<details>
+<summary><b>Generasi Energi Bersih | Bali Regional Administrator</b></summary>
+<br>
+
+<p>📅 <strong>Dec 2023 – Dec 2025</strong></p>
+<p>Designed and implemented renewable energy awareness programs for the Bali community, organized seminars and webinars on clean energy, and represented Bali in the West Java Renewable Energy Exploration 2024, visiting facilities such as Pertamina Geothermal Energy and the Cirata Floating Solar Power Plant.</p>
+
+</details>
+
+<details>
+<summary><b>Astra Polytechnic | Innovation Division, ASTRA Polytechnic Dormitory</b></summary>
+<br>
+
+<p>📅 <strong>Oct 2024 – Aug 2025</strong></p>
+<p>Identified improvement opportunities within the dormitory management system and proposed technology-driven, sustainable solutions, including IoT-based facility monitoring, in collaboration with residents, staff, and dormitory management.</p>
+
+</details>
+
+<details>
+<summary><b>KSTEB | Program Officer & Social Media Officer</b></summary>
+<br>
+
+<p>📅 <strong>Aug 2024 – Aug 2025</strong></p>
+<p>Designed and managed business mentoring programs to support clean energy startup growth, engaged in government-organized events for networking and collaboration, and oversaw KSTEB's social media platforms to raise public awareness of sustainable energy.</p>
+
+</details>
+
+<details>
+<summary><b>OSIS SMA Negeri Bali Mandara | Information and Communication Department</b></summary>
+<br>
+
+<p>📅 <strong>Jul 2021 – Jul 2022</strong></p>
+<p>Managed organizational communication, created digital content, and documented school activities, collaborating with cross-functional committees to organize events and ensure effective communication between the student council, administration, and students.</p>
 
 </details>
 
@@ -417,10 +458,11 @@ services to databases, APIs, system analysis, and network infrastructure.
 <p>
   <img src="https://img.shields.io/badge/Leadership-4B4B4B?style=flat-square" alt="Leadership">
   <img src="https://img.shields.io/badge/Public%20Speaking-4B4B4B?style=flat-square" alt="Public Speaking">
-  <img src="https://img.shields.io/badge/Critical%20Thinking-4B4B4B?style=flat-square" alt="Critical Thinking">
+  <img src="https://img.shields.io/badge/Critical%20%26%20Analytical%20Thinking-4B4B4B?style=flat-square" alt="Critical & Analytical Thinking">
   <img src="https://img.shields.io/badge/Problem%20Solving-4B4B4B?style=flat-square" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Time%20and%20Priority%20Management-4B4B4B?style=flat-square" alt="Time and Priority Management">
   <img src="https://img.shields.io/badge/Team%20Collaboration-4B4B4B?style=flat-square" alt="Team Collaboration">
-  <img src="https://img.shields.io/badge/Time%20Management-4B4B4B?style=flat-square" alt="Time Management">
+  <img src="https://img.shields.io/badge/Attention%20to%20Detail-4B4B4B?style=flat-square" alt="Attention to Detail">
 </p>
 
 ---
